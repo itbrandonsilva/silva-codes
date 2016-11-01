@@ -130,6 +130,6 @@ export class TerminalComponent implements OnInit {
     ngOnInit() {
         setTimeout(() => {
             this.queue(this.inputs);
-        }, 500);
+        }, 300);
     }
 }
