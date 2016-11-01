@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body {
+    height: 100%;
+    background-color: black;
+}
+
+.terminal {
+    background-color: black;
+    color: white;
+    font-family: "Lucida Console", Monaco, monospace;
+    height: 100%;
+}
+
+.terminal > pre {
+    margin: 0;
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: white;
+}
