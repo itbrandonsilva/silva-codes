@@ -19,7 +19,7 @@ export class AppComponent {
             new TerminalCommandWrite('\n', interval),
             new TerminalCommandWriteURL('LinkedIn', intervalf, 'https://www.linkedin.com/in/itbrandonsilva'),
             new TerminalCommandWrite('\n', interval),
-            new TerminalCommandWriteURL('Resume', intervalf, 'https://drive.google.com/open?id=0B0spQzfEVggyVXRmNnM5U2lDakk'),
+            new TerminalCommandWriteURL('Resume', intervalf, 'https://drive.google.com/open?id=0B0spQzfEVggyenEweGhIV21Va00'),
             new TerminalCommandWrite('\n\n>', interval),
         );
     }
